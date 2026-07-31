@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0037-sudoku-solver) |
+| [0205-isomorphic-strings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
