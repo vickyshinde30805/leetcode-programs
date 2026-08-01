@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0242-valid-anagram) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
