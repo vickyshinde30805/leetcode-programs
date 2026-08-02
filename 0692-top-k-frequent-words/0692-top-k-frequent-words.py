@@ -1,9 +1,16 @@
 from collections import Counter
+
 class Solution:
-    def topKFrequent(self, words: List[str], k: int) -> List[str]:
-        freq=Counter(words)
-        res=sorted(freq.items(),key=lambda x:(-x[1],x[0]))
-        ans=[]
+    def topKFrequent(self, words, k):
+        freq = Counter(words)
+        # Step 1: Sort alphabetically
+        result = sorted(freq.items())
+        # Step 2: Sort by frequency (highest first)
+        result = sorted(result, key=lambda x: x[1], reverse=True)
+
+        ans = []
+
         for i in range(k):
-            ans.append(res[i][0])
-        return ans 
+            ans.append(result[i][0])
+
+        return ans
