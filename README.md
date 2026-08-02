@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1301-number-of-paths-with-max-score) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -273,8 +279,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
