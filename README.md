@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0486-predict-the-winner) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0389-find-the-difference) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -254,4 +259,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
