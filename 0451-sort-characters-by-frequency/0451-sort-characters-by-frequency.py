@@ -4,8 +4,6 @@ class Solution:
         freq=Counter(s)
         result=sorted(freq.items(),key=lambda x:x[1],reverse=True)
         ans=""
-        for ch ,count in (result):
+        for ch,count in (result):
             ans+=ch*count
         return ans
-
-        
