@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0205-isomorphic-strings) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0242-valid-anagram) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
