@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0217-contains-duplicate) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1301-number-of-paths-with-max-score) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0283-move-zeroes) |
@@ -268,10 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
