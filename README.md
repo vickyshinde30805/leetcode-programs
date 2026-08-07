@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0977-squares-of-a-sorted-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0643-maximum-average-subarray-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
