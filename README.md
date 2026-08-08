@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3534-path-existence-queries-in-a-graph-ii) |
