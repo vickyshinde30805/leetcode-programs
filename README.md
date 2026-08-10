@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0643-maximum-average-subarray-i) |
