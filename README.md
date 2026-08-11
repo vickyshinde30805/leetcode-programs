@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
@@ -402,4 +405,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1510-stone-game-iv) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
