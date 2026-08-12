@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0049-group-anagrams) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
