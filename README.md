@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -434,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
