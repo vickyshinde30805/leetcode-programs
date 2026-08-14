@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0042-trapping-rain-water) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0162-find-peak-element) |
