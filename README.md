@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1301-number-of-paths-with-max-score) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3532-path-existence-queries-in-a-graph-i) |
