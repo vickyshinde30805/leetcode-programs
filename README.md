@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0977-squares-of-a-sorted-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3532-path-existence-queries-in-a-graph-i) |
