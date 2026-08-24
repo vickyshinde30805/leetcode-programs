@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0125-valid-palindrome) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0160-intersection-of-two-linked-lists) |
