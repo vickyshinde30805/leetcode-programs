@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0206-reverse-linked-list) |
