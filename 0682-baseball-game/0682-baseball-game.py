@@ -1,4 +1,25 @@
-class stack:
+class Solution:
+    def calPoints(self, operations: List[str]) -> int:
+        st=[]
+
+        for ch in operations:
+            if ch=="+":
+                st.append(st[-1]+st[-2])
+            elif ch=="D":
+                st.append(2*st[-1])
+            
+            elif ch=="C":
+                st.pop()
+            
+            else:
+                st.append(int(ch))
+        
+        return sum(st)
+
+
+
+
+"""class stack:
     def __init__(self):
         self.val=[]
     def push(self,x):
@@ -41,6 +62,6 @@ class Solution:
                 if ch=="C":
                     st.pop()
 
-        return sum(st.val)
+        return sum(st.val)"""
 
         
