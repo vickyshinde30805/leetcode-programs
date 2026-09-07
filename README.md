@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
+| [0844-backspace-string-compare](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
