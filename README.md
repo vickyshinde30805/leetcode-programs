@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0875-koko-eating-bananas) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
