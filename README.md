@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0037-sudoku-solver) |
+| [1096-brace-expansion-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -451,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
