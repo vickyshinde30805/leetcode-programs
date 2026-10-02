@@ -1,20 +1,25 @@
 class Solution:
     def generateParenthesis(self, n: int) -> list[str]:
-        result = []
+        stack=[]
+        res=[]
 
-        def backtrack(current, open_count, close_count):
-            # If the string has 2*n parentheses, it is complete
-            if len(current) == 2 * n:
-                result.append(current)
+        def backtrack(openN,closeN):
+            if openN==closeN==n:
+                res.append("".join(stack))
                 return
 
-            # We can add '(' if we still have some left
-            if open_count < n:
-                backtrack(current + "(", open_count + 1, close_count)
+            if openN<n:
+                stack.append("(")
+                backtrack(openN+1,closeN)
+                stack.pop()
+            
+            if closeN < openN:
+                stack.append(")")
+                backtrack(openN,closeN+1)
+                stack.pop()
 
-            # We can add ')' only if it won't make the string invalid
-            if close_count < open_count:
-                backtrack(current + ")", open_count, close_count + 1)
+        backtrack(0,0)
+        return res
 
-        backtrack("", 0, 0)
-        return result
+
+        
