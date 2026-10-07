@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0389-find-the-difference) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/vickyshinde30805/leetcode-programs/tree/master/2685-count-the-number-of-complete-components) |
