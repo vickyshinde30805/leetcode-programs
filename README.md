@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/vickyshinde30805/leetcode-programs/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [0844-backspace-string-compare](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0844-backspace-string-compare) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
