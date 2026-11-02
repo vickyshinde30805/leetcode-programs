@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0643-maximum-average-subarray-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0977-squares-of-a-sorted-array) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/vickyshinde30805/leetcode-programs/tree/master/0836-rectangle-overlap) |
